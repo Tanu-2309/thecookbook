@@ -10,5 +10,7 @@ The Cook Book is an interactive platform designed for prople who are passionate 
 - Step-by-Step Instructions – Easy-to-follow cooking methods
 - Ingredient Details – Get the exact list of ingredients needed
 - User-Friendly UI – Simple navigation for an engaging experience
+# Figma link
+- check this out on figma : https://www.figma.com/proto/5uk5xZADtaJBViFHioKjJn/Thanushree-Senthil-kumar's-team-library?t=zPdosl6NWFyP7G2f-1 
 
 
